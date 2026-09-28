@@ -11,6 +11,13 @@ Everything is inside this ONE folder.
 7. We should add secure rules next before testing real bookings.
 8. Host with Firebase Hosting over HTTPS for iPhone PWA installation.
 
+PROJECT SHOWCASE
+Open PROJECT-SHOWCASE.html for the English-language project presentation,
+including the live app link, GitHub source, implementation overview, and stack.
+Real desktop and mobile app captures are in the screenshots/ folder.
+Live app: https://beautybook-87b3f.web.app/
+Public source: https://github.com/kisal-dv/BeautyBook-Firebase-PWA
+
 The UI includes client booking and an owner login/dashboard.
 Services are read from Firestore.
 Client requests go to bookingRequests.
